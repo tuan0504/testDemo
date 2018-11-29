@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="edtRegister">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+    </style>
+
+    <style name="edtAnim">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/sp_20</item>
+
+    </style>
+
+    <style name="tvRegister">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="android:layout_marginStart">@dimen/dp_4</item>
+    </style>
+
+    <!--<style name="TextLabel" parent="TextAppearance.AppCompat">-->
+        <!--&lt;!&ndash; Hint color and label color in FALSE state &ndash;&gt;-->
+        <!--<item name="android:textSize">@dimen/text_font_size_normal</item>-->
+        <!--&lt;!&ndash; Label color in TRUE state and bar color FALSE and TRUE State &ndash;&gt;-->
+        <!--<item name="colorAccent">#e57373</item>-->
+        <!--<item name="colorControlNormal">#e57373</item>-->
+        <!--<item name="colorControlActivated">#e57373</item>-->
+    <!--</style>-->
+
+    <style name="TextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+        <item name="colorAccent">#e57373</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Small.Error">
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+    </style>
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/sp_14</item>
+    </style>
+
+
+</resources>

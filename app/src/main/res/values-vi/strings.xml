@@ -1,0 +1,79 @@
+<resources>
+    <string name="term_condition">Tôi đã hiểu và đồng ý với các điều khoản và dịch vụ của Keelago</string>
+    <string name="reset_pass">Để thiết lập lại mật khẩu, hãy nhập địa chỉ thư điện tử đã dùng khi đăng ký tài khoản.</string>
+    <string name="active_at">Active at %s</string>
+    <string name="discount_rate">%s%%</string>
+    <string name="plus_discount_rate">+%s%%</string>
+    <string name="bill_request">Vui lòng đợi. Hoá đơn của bạn đang được xử lý…</string>
+    <string name="tv_username">Tên đăng nhập</string>
+    <string name="tv_password">Mật khẩu</string>
+    <string name="tv_confirm_password">Xác nhận mật khẩu</string>
+    <string name="tv_confirm_new_password">Xác nhận mật khẩu mới</string>
+    <string name="tv_login">Đăng nhập</string>
+    <string name="tv_create_new_account">Tạo tài khoản mới</string>
+    <string name="tv_forgot_password">Quên mật khẩu?</string>
+    <string name="title_forgot_password">Quên mật khẩu</string>
+    <string name="tv_reset_your_password">Thiết lập lại mật khẩu của bạn</string>
+    <string name="tv_change_password">Đổi mật khẩu</string>
+    <string name="tv_reset_password">Thiết lập lại mật khẩu</string>
+    <string name="tv_old_password">Mật khẩu cũ</string>
+    <string name="tv_new_password">Mật khẩu mới</string>
+    <string name="edt_first_name">Tên</string>
+    <string name="edt_middle_name">Chữ đệm</string>
+    <string name="edt_last_name">Họ</string>
+    <string name="edt_birth_date">Ngày sinh</string>
+    <string name="edt_gender">Giới tính</string>
+    <string name="edt_male">Nam</string>
+    <string name="tv_male">Nam</string>
+    <string name="edt_female">Nữ</string>
+    <string name="tv_female">Nữ</string>
+    <string name="edt_email">Thư điện tử</string>
+    <string name="edt_preferred_language">Ngôn ngữ</string>
+    <string name="edt_language">Ngôn ngữ</string>
+    <string name="edt_english">Tiếng Anh</string>
+    <string name="tv_english">Tiếng Anh</string>
+    <string name="edt_vietnamese">Tiếng Việt</string>
+    <string name="tv_vietnam">Tiếng Việt</string>
+    <string name="tv_profile">Hồ sơ</string>
+    <string name="tv_account">Tài khoản</string>
+    <string name="tv_transaction">Giao dịch</string>
+    <string name="tv_logout">Đăng xuất</string>
+    <string name="tv_register">Đăng ký</string>
+    <string name="tv_save">LƯU</string>
+    <string name="tv_done">XONG</string>
+    <string name="tv_deals">Khuyến mãi</string>
+    <string name="tv_QR_code">Mã QR</string>
+    <string name="error_email">Hãy nhập địa chỉ thư điện tử hợp lệ.</string>
+    <string name="error_confirm_pass">Mật khẩu không giống với trường xác nhận mật khẩu.</string>
+    <string name="error_confirm_new_pass">Mật khẩu mới không giống với trường xác nhận mật khẩu.</string>
+    <string name="error_policy">Bạn phải đồng ý với điều khoản sử dụng dịch vụ.</string>
+    <string name="error_field">Trường này là bắt buộc</string>
+    <string name="error_photo">Hình ảnh bắt buộc</string>
+    <string name="title_edit_acc">Chỉnh sửa tài khoản</string>
+    <string name="today_discount">Giảm giá trong ngày:</string>
+    <string name="tv_request_bill">Yêu cầu thanh toán</string>
+    <string name="hot_deals">Đang khuyến mãi</string>
+    <string name="my_memberships">Thẻ thành viên của tôi</string>
+    <string name="pass_require">Phải có 6 kí tự, phải bao gồm số và kí tự đặc biệt.</string>
+    <string name="please_wait">Vui lòng đợi</string>
+    <string name="rank_default">Chuẩn</string>
+    <string name="rank_gold">Vàng</string>
+    <string name="rank_silver">Bạc</string>
+    <string name="rank_bronze">Đồng</string>
+    <string name="rank_platinum">Bạch Kim</string>
+    <string name="notice_photo">* Hình chân dung là trường bắt buộc để xác nhận thành viên.</string>
+    <string name="exit_app">Nhấn BACK lần nữa để thoát ứng dụng</string>
+
+    <string-array name="languages">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Việt</item>
+        <!--<item>French</item>-->
+    </string-array>
+
+    <string-array name="gender">
+        <item>Nam</item>
+        <item>Nữ</item>
+        <!--<item>French</item>-->
+    </string-array> 
+
+</resources>
